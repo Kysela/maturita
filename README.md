@@ -1,4 +1,4 @@
-# Moje maturitní příprava pro rok 2020
+# Moje maturitní příprava pro rok 2020 | My study preparation for high school finals 2020
 
 Repozitář obsahuje neoficiální materiály k přípravě na maturitní zkoušku. Všechny materiály byly vypracovány mnou a jejich přispěvateli. Pokud se vyskytne nějaký problém s licencováním, nebo se zdroji, tak mě prosím kontaktujte, nebo změny sami pushněte, děkuji!
 
