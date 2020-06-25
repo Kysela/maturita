@@ -2,6 +2,8 @@
 
 Repozitář obsahuje neoficiální materiály k přípravě na maturitní zkoušku. Všechny materiály byly vypracovány mnou a jejich přispěvateli. Pokud se vyskytne nějaký problém s licencováním, nebo se zdroji, tak mě prosím kontaktujte, nebo změny sami pushněte, děkuji!
 
+Pro podporu mé práce mi můžete něco hodit na https://paypal.me/atgdroid, díky moc :)
+
 ## Materiály
 
 - [Anglický Jazyk](Anglicky-Jazyk)
